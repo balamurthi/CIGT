@@ -1,0 +1,57 @@
+.padding-top {
+    padding: 8px 0px;
+    background-color: #edeff1;
+    color: #28293a;
+    font-size: 14px;
+}
+
+.row {
+    //   padding: 8px 0px;
+    background-color: #edeff1;
+    color: #020203;
+}
+
+.margin-top {
+    margin: 9px;
+}
+
+.col {
+    // padding: 8px;
+}
+
+.font-awesome {
+    display: flex;
+    /* Use flexbox layout */
+    list-style: none;
+    /* Remove default list styles */
+    padding-top: 10px;
+    /* Remove any default padding */
+    float: right;
+}
+
+.font-awesome a {
+    margin-right: 10px;
+    /* Add some spacing between the icons */
+}
+
+.QUOTE {
+    float: inline-end;
+    padding: 6px 28px 10px 28px;
+    color: white;
+    background-color: rgb(6, 120, 67);
+    margin-left: 10px;
+}
+
+.QUOTE:hover {
+    background-color: darkblue;
+}
+
+.flat-header-wrap {
+    background-color: white;
+}
+
+.bold {
+    font-weight: bold;
+    color: #edeff1;
+    padding-bottom: 15px;
+}
